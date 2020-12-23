@@ -1,0 +1,5 @@
+# configuration files
+.env
+
+# development files
+node_modules
